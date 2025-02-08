@@ -1,0 +1,30 @@
+{
+	"store_info": {
+		"store_name": "The Inheritors",
+		"phone_number": "01234567890",
+		"city": "San Jose",
+		"state": "CA",
+		"zip_code": "95136",
+		"city_tax_percentage": 0.0875
+	},
+	"product_info": [
+		{
+			"product_code": "01145",
+			"product_name": "The Inheritors Mug",
+			"price": 10.00,
+			"description": "A mug with the Inheritors logo"
+		},
+		{
+			"product_code": "01151",
+			"product_name": "The Inheritors T-Shirt",
+			"price": 20.00,
+			"description": "A t-shirt with the Inheritors logo"
+		},
+		{
+			"product_code": "01102",
+			"product_name": "The Inheritors Hoodie",
+			"price": 30.00,
+			"description": "A hoodie with the Inheritors logo"
+		}
+	]
+}
